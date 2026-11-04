@@ -1,0 +1,7 @@
+machine_id,machine_name,line_id,process_area
+M01,Filling Machine 1,Line A,Filling
+M02,Packaging Machine 1,Line A,Packaging
+M03,Filling Machine 2,Line B,Filling
+M04,Packaging Machine 2,Line B,Packaging
+M05,Assembly Machine 1,Line C,Assembly
+M06,Inspection Machine 1,Line C,Inspection
