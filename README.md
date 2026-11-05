@@ -62,3 +62,13 @@ analysis rather than silently corrected or removed.
 - The dataset is synthetic and does not represent real company data.
 - Shift-level performance analysis was not included.
 - Findings are based on the available sample dataset.
+
+## Dashboard Preview
+
+### Manufacturing Operations Overview
+
+![Manufacturing Operations Overview](dashboard-overview.png)
+
+### Quality & Performance Analysis
+
+![Quality & Performance Analysis](quality-performance.png)
