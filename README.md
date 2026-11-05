@@ -67,8 +67,8 @@ analysis rather than silently corrected or removed.
 
 ### Manufacturing Operations Overview
 
-![Manufacturing Operations Overview](dashboard-overview.png)
+![Manufacturing Operations Overview](Dashboard-Overview.png)
 
 ### Quality & Performance Analysis
 
-![Quality & Performance Analysis](quality-performance.png)
+![Quality & Performance Analysis](Quality-Performance.png)
